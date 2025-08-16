@@ -4,6 +4,11 @@ This report summarizes the training, evaluation, and comparison of three models 
 
 ---
 
+## Demo Video
+[![Watch the video](https://img.youtube.com/vi/SbuVi-eF-Nc/0.jpg)](https://youtu.be/SbuVi-eF-Nc)
+
+---
+
 ## Exploratory Data Analysis (EDA)
 
 - Examined distributions and missing values (histograms and heatmap saved).  
