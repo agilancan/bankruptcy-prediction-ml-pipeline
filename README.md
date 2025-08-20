@@ -1,6 +1,6 @@
-# Lab 5: Model Implementation and Evaluation
+# End-to-End ML Pipeline for Bankruptcy Prediction (EDA, Modeling, Explainability, Drift Monitoring)
 
-This report summarizes the training, evaluation, and comparison of three models for the **Company Bankruptcy Prediction** dataset. The pipeline includes EDA, preprocessing, feature selection, model training, evaluation, SHAP analysis, and PSI calculation.
+End-to-End Bankruptcy Prediction Pipeline: Data Engineering, ML Modeling, Explainability (SHAP), and Drift Monitoring (PSI). This report summarizes the training, evaluation, and comparison of three models for the **Company Bankruptcy Prediction** dataset. The pipeline includes EDA, preprocessing, feature selection, model training, evaluation, SHAP analysis, and PSI calculation.
 
 ---
 
@@ -31,8 +31,7 @@ This report summarizes the training, evaluation, and comparison of three models 
 
 - Correlation filtering to drop features with correlation > 0.9.  
 - Reduced redundancy and multicollinearity.  
-- Kept top important features from Random Forest/XGBoost for interpretability.  
-- Final features matched Lab 4 decisions.
+- Kept top important features from Random Forest/XGBoost for interpretability.
 
 ---
 
